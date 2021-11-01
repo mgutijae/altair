@@ -1,5 +1,5 @@
 # Altair Technical Test
-##Overview
+## Overview
 
 Simple example to merge two different types of structs, and sorted by age from youngest to oldest.
 
